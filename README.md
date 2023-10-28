@@ -15,7 +15,7 @@ https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs
 # Project 3. Recommender System and ConvAI using LLMs on E-commerce Data:
 This project will demonstrate you how to build a Recommender System and most importantly how to use LLMs for various tasks such as Sentiment Analysis, generate Questions that customers could potentially ask, answer those question as a Personal Assistant, retrieve specific details about product, etc.
 
-https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs
+https://github.com/Praveen76/Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data
 
 
 The above projects have been tested on Windows system. It should work well on other distributions but has not yet been tested. Please download all the Python Notebooks and run them for better readibility and experience.
