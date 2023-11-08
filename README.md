@@ -18,9 +18,14 @@ This project will demonstrate you how to build a Recommender System and most imp
 [Conversationl AI system using LLMs](https://github.com/Praveen76/Build-Conversation-AI-System-using-LLMs)
 
 
-The above projects have been tested on Windows system. It should work well on other distributions but has not yet been tested. Please download all the Python Notebooks and run them for better readibility and experience.
+# License:
+This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
 
-In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+# Issues:
+If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
+
+# Contact:
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 # **About Me:**
 I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
