@@ -12,10 +12,11 @@ This project will demonstrate you how to customize word embeddings for LLMs.
 [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
 
-# Project 3. Conversationl AI system using LLMs:
+# Project 3. Conversationl AI system using LLMs on E-commerce Data:
 This project will demonstrate you how to build a Recommender System and most importantly how to use LLMs for various tasks such as Sentiment Analysis, generate Questions that customers could potentially ask, answer those question as a Personal Assistant, retrieve specific details about product, etc.
 
-[Conversationl AI system using LLMs](https://github.com/Praveen76/Build-Conversation-AI-System-using-LLMs)
+[Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
+
 
 
 # License:
