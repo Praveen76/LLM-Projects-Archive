@@ -34,7 +34,11 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** It's a GitHub project focused on tailoring word embeddings specifically for Large Language Models, enabling fine-tuned linguistic representations to enhance performance in domain-specific applications
    - **Repository:** [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
-3. **Conversationl AI system using LLMs on E-commerce Data:** 
+3.**Finetune Open-source LLMs on Custom Data:** 
+   - **Description:** It's a GitHub project focused on fine-tuning open-source LLMs on custom datasets, showcasing tailored solutions for enhanced language models.
+   - **Repository:** [Finetune Open-source LLMs on custom data](https://github.com/Praveen76/Finetune-Open-Source-LLMs-on-custom-data.git)
+
+4. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
 
