@@ -34,10 +34,10 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** It's a GitHub project focused on tailoring word embeddings specifically for Large Language Models, enabling fine-tuned linguistic representations to enhance performance in domain-specific applications
    - **Repository:** [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
-3.**Finetune Open-source LLMs on Custom Data:** 
+3. **Finetune Open-source LLMs on Custom Data:** 
    - **Description:** It's a GitHub project focused on fine-tuning open-source LLMs on custom datasets, showcasing tailored solutions for enhanced language models.
    - **Repository:** [Finetune Open-source LLMs on custom data](https://github.com/Praveen76/Finetune-Open-Source-LLMs-on-custom-data.git)
-
+   
 4. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
    - **Description:** A comprehensive GitHub project focused on building and evaluating Retrieval-Augmented-Generation pipelines, enhancing natural language understanding and generation capabilities."
    - **Repository:** [Build & evaluate Retrieval-Augmented-Generation pipelines](https://github.com/Praveen76/Build-Retrieval-Augmented-Generation-pipelines.git)
