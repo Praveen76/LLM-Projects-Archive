@@ -38,7 +38,11 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** It's a GitHub project focused on fine-tuning open-source LLMs on custom datasets, showcasing tailored solutions for enhanced language models.
    - **Repository:** [Finetune Open-source LLMs on custom data](https://github.com/Praveen76/Finetune-Open-Source-LLMs-on-custom-data.git)
 
-4. **Conversationl AI system using LLMs on E-commerce Data:** 
+4. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
+   - **Description:** A comprehensive GitHub project focused on building and evaluating Retrieval-Augmented-Generation pipelines, enhancing natural language understanding and generation capabilities."
+   - **Repository:** [Build & evaluate Retrieval-Augmented-Generation pipelines](https://github.com/Praveen76/Build-Retrieval-Augmented-Generation-pipelines.git)
+
+5. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
 
