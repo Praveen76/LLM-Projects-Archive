@@ -26,15 +26,15 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 
 ## Projects
 
-1. **Project Name:** Introduction to LLMs
+1. **Introduction to LLMs:** 
    - **Description:**  A comprehensive GitHub project offering a beginner-friendly guide and hands-on examples to understand and work with Large Language Models (LLMs) in the field of NLP( Natural Language Processing).
    - **Repository:** [Introduction to LLMs](https://github.com/Praveen76/Introduction-to-LLMs)
 
-2. **Project Name:** Customize Word Embeddings for LLMs
+2. **Customize Word Embeddings for LLMs:** 
    - **Description:** It's a GitHub project focused on tailoring word embeddings specifically for Large Language Models, enabling fine-tuned linguistic representations to enhance performance in domain-specific applications
    - **Repository:** [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
-3. **Project Name:** Conversationl AI system using LLMs on E-commerce Data
+3. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
 
