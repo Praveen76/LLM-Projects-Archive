@@ -27,7 +27,7 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 ## Projects
 
 1. **Project Name:** Introduction to LLMs
-   - **Description:**  comprehensive GitHub project offering a beginner-friendly guide and hands-on examples to understand and work with Large Language Models (LLMs) in the field of NLP( Natural Language Processing).
+   - **Description:**  A comprehensive GitHub project offering a beginner-friendly guide and hands-on examples to understand and work with Large Language Models (LLMs) in the field of NLP( Natural Language Processing).
    - **Repository:** [Introduction to LLMs](https://github.com/Praveen76/Introduction-to-LLMs)
 
 2. **Project Name:** Customize Word Embeddings for LLMs
