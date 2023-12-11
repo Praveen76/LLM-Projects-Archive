@@ -42,7 +42,11 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** A comprehensive GitHub project focused on building and evaluating Retrieval-Augmented-Generation pipelines, enhancing natural language understanding and generation capabilities."
    - **Repository:** [Build & evaluate Retrieval-Augmented-Generation pipelines](https://github.com/Praveen76/Build-Retrieval-Augmented-Generation-pipelines.git)
 
-5. **Conversationl AI system using LLMs on E-commerce Data:** 
+5. **Finetune Llama using QLoRA Method:** 
+   - **Description:** "GitHub project for fine-tuning the Llama language model using the QLoRA (Quantized Low Rank Adaption) method for enhanced natural language understanding."
+   - **Repository:** [Finetune Llama using QLoRA Method](https://github.com/Praveen76/Fine-tune-LLAMA-with-QLoRA/)
+
+6. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
 
