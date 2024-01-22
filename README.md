@@ -49,6 +49,9 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 6. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
+7. **Build RAG-pipelines using Llama-Index:**
+   - **Description:** Build a RAG pipeline using Llama-Index.
+   - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
 <!-- Add more projects as needed -->
 
