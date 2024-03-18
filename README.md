@@ -49,7 +49,13 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 6. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
-7. **Build RAG-pipelines using Llama-Index:**
+7. **Language Translation using Transformer Model:**
+   - **Description:** This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
+   - **Repository:** [Language Translation using Transformer Model](https://github.com/Praveen76/Language-Translation-using-Transformer-Decoder-Model)
+8. **Text Classification using BERT Model:**
+   - **Description:** This repository contains code for building a text classification model using the BERT (Bidirectional Encoder Representations from Transformers) Model. The IMDB dataset has been utilized for this experiment.
+   - **Repository:** [Text Classification using BERT Model](https://github.com/Praveen76/Text-Classification-using-BERT-Model)
+9. **Build RAG-pipelines using Llama-Index:**
    - **Description:** Build a RAG pipeline using Llama-Index.
    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
