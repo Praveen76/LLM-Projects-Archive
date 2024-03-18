@@ -26,36 +26,40 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 
 ## Projects
 
-1. **Introduction to LLMs:** 
+1. **Introduction to Huggingface, Spacy, and PyTorch:**
+   - **Description:**  This repository provides an introduction to HuggingFace, PyTorch, and Spacy, focusing on building NLP projects. It includes links to several other repositories, each containing notebooks to familiarize oneself with these libraries.
+   - **Repository:** [Introduction to Huggingface, Spacy, and PyTorch](https://github.com/Praveen76/Introduction-to-HuggingFace-PyTorch-and-Spacy)
+
+2. **Introduction to LLMs:** 
    - **Description:**  A comprehensive GitHub project offering a beginner-friendly guide and hands-on examples to understand and work with Large Language Models (LLMs) in the field of NLP( Natural Language Processing).
    - **Repository:** [Introduction to LLMs](https://github.com/Praveen76/Introduction-to-LLMs)
 
-2. **Customize Word Embeddings for LLMs:** 
+3. **Customize Word Embeddings for LLMs:** 
    - **Description:** It's a GitHub project focused on tailoring word embeddings specifically for Large Language Models, enabling fine-tuned linguistic representations to enhance performance in domain-specific applications
    - **Repository:** [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
-3. **Finetune Open-source LLMs on Custom Data:** 
+4. **Finetune Open-source LLMs on Custom Data:** 
    - **Description:** It's a GitHub project focused on fine-tuning open-source LLMs on custom datasets, showcasing tailored solutions for enhanced language models.
    - **Repository:** [Finetune Open-source LLMs on custom data](https://github.com/Praveen76/Finetune-Open-Source-LLMs-on-custom-data.git)
    
-4. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
+5. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
    - **Description:** A comprehensive GitHub project focused on building and evaluating Retrieval-Augmented-Generation pipelines, enhancing natural language understanding and generation capabilities."
    - **Repository:** [Build & evaluate Retrieval-Augmented-Generation pipelines](https://github.com/Praveen76/Build-Retrieval-Augmented-Generation-pipelines.git)
 
-5. **Finetune Llama using QLoRA Method:** 
+6. **Finetune Llama using QLoRA Method:** 
    - **Description:** "GitHub project for fine-tuning the Llama language model using the QLoRA (Quantized Low Rank Adaption) method for enhanced natural language understanding."
    - **Repository:** [Finetune Llama using QLoRA Method](https://github.com/Praveen76/Fine-tune-LLAMA-with-QLoRA/)
 
-6. **Conversationl AI system using LLMs on E-commerce Data:** 
+7. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
-7. **Language Translation using Transformer Model:**
+8. **Language Translation using Transformer Model:**
    - **Description:** This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
    - **Repository:** [Language Translation using Transformer Model](https://github.com/Praveen76/Language-Translation-using-Transformer-Decoder-Model)
-8. **Text Classification using BERT Model:**
+9. **Text Classification using BERT Model:**
    - **Description:** This repository contains code for building a text classification model using the BERT (Bidirectional Encoder Representations from Transformers) Model. The IMDB dataset has been utilized for this experiment.
    - **Repository:** [Text Classification using BERT Model](https://github.com/Praveen76/Text-Classification-using-BERT-Model)
-9. **Build RAG-pipelines using Llama-Index:**
+10. **Build RAG-pipelines using Llama-Index:**
    - **Description:** Build a RAG pipeline using Llama-Index.
    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
