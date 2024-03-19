@@ -1,7 +1,7 @@
 # LLM Projects Archive
 
 Welcome to the LLM Projects Archive! This repository serves as a curated collection of projects related to Large Language Models (LLMs). If you are interested in exploring and contributing to projects that leverage LLMs for various applications, you're in the right place.
-
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -9,23 +9,13 @@ Welcome to the LLM Projects Archive! This repository serves as a curated collect
 - [LLM Projects](#llm-projects)
 - [Pre-LLM Projects](#pre-llm-projects)
 - [License](#license)
-
+---
 ## Introduction
 
 Large Language Models (LLMs), such as GPT-3, BERT, and others, have revolutionized natural language processing and understanding. This repository aims to bring together a diverse set of projects that utilize LLMs for different purposes. Whether it's text generation, sentiment analysis, summarization, or any other application, this archive aims to showcase the versatility and creativity of LLM-based projects.
 
-## How to Contribute
-
-We encourage you to contribute to this archive by adding your own LLM-related projects or discovering new ones. Follow these steps to contribute:
-
-1. Fork the repository.
-2. Add your project information to the `projects.md` file. Include the project name, a brief description, and the GitHub repository link.
-3. If your project falls into a specific category (e.g., sentiment analysis, chatbots, translation), please categorize it accordingly.
-4. Submit a pull request.
-
-Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth collaboration.
-
-## Projects
+---
+## LLM Projects
 
 1. **Introduction to Huggingface, Spacy, and PyTorch:**
    - **Description:**  This repository provides an introduction to HuggingFace, PyTorch, and Spacy, focusing on building NLP projects. It includes links to several other repositories, each containing notebooks to familiarize oneself with these libraries.
@@ -58,24 +48,25 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 8. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
-9.  **Text Classification using Transformer Encoder Model:**
-   - **Description:** This repository focuses on text classification using a Transformer Encoder model, utilizing the IMDB dataset for experimentation.
-   - **Repository:** [Text Classification using Transformer Encoder Model](https://github.com/Praveen76/Text-Classification-using-Transformer-Encoder-Model)
+
+9. **Text Classification using Transformer Encoder Model:**
+    - **Description:** This repository focuses on text classification using a Transformer Encoder model, utilizing the IMDB dataset for experimentation.
+    - **Repository:** [Text Classification using Transformer Encoder Model](https://github.com/Praveen76/Text-Classification-using-Transformer-Encoder-Model)
 
 10. **Language Translation using Transformer Decoder Model:**
-   - **Description:** This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
-   - **Repository:** [Language Translation using Transformer Model](https://github.com/Praveen76/Language-Translation-using-Transformer-Decoder-Model)
+    - **Description:** This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
+    - **Repository:** [Language Translation using Transformer Model](https://github.com/Praveen76/Language-Translation-using-Transformer-Decoder-Model)
 
 11. **Text Classification using BERT Model:**
-   - **Description:** This repository contains code for building a text classification model using the BERT (Bidirectional Encoder Representations from Transformers) Model. The IMDB dataset has been utilized for this experiment.
-   - **Repository:** [Text Classification using BERT Model](https://github.com/Praveen76/Text-Classification-using-BERT-Model)
+    - **Description:** This repository contains code for building a text classification model using the BERT (Bidirectional Encoder Representations from Transformers) Model. The IMDB dataset has been utilized for this experiment.
+    - **Repository:** [Text Classification using BERT Model](https://github.com/Praveen76/Text-Classification-using-BERT-Model)
 
 12. **Build RAG-pipelines using Llama-Index:**
-   - **Description:** Build a RAG pipeline using Llama-Index.
-   - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
 <!-- Add more projects as needed -->
-
+---
 ## Pre-LLM Projects:
 1. **Text Classification using Naive Bayes Classifier:**
    - **Description:** This repository demonstrates text classification using a multi-nomial Naive Bayes Classifier. The IMDB dataset is used for this experiment.
@@ -93,18 +84,29 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** This repository contains code for building a forecasting model using Recurrent Neural Networks (RNNs). A climate-related dataset has been utilized for this experiment.
    - **Repository:** [Build a Forecasting Model using RNN](https://github.com/Praveen76/Build-a-Forecasting-Model-using-RNN)
 
-     
+---
+## How to Contribute
+
+We encourage you to contribute to this archive by adding your own LLM-related projects or discovering new ones. Follow these steps to contribute:
+
+1. Fork the repository.
+2. Add your project information to the `projects.md` file. Include the project name, a brief description, and the GitHub repository link.
+3. If your project falls into a specific category (e.g., sentiment analysis, chatbots, translation), please categorize it accordingly.
+4. Submit a pull request.
+
+Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth collaboration.
+---
 ## License
 
 This repository and its contents are open-sourced under the [MIT License](LICENSE). Feel free to use, modify, and distribute these projects in accordance with the terms specified in the license.
-
+---
 # Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
-
+---
 # Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 Happy coding!!
-
+---
 ## **About Me**:
 I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
