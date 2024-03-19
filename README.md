@@ -6,7 +6,8 @@ Welcome to the LLM Projects Archive! This repository serves as a curated collect
 
 - [Introduction](#introduction)
 - [How to Contribute](#how-to-contribute)
-- [Projects](#projects)
+- [LLM Projects](#llm-projects)
+- [Pre-LLM Projects](#pre-llm-projects)
 - [License](#license)
 
 ## Introduction
@@ -75,6 +76,24 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
 
 <!-- Add more projects as needed -->
 
+## Pre-LLM Projects:
+1. **Text Classification using Naive Bayes Classifier:**
+   - **Description:** This repository demonstrates text classification using a multi-nomial Naive Bayes Classifier. The IMDB dataset is used for this experiment.
+   - **Repository:** [Text Classification using Naive Bayes Classifier](https://github.com/Praveen76/Text-Classification-using-NaiveBayes-Classifier)
+
+2. **Build a Custom NER Model using Spacy:**
+   - **Description:** This repository contains code for building a custom Named Entity Recognition (NER) model using the spaCy library. The Medical NER dataset has been utilized for this experiment.
+   - **Repository:** [Build a Custom NER Model using Spacy](https://github.com/Praveen76/Build-a-Custom-NER-Model-using-Spacy)
+
+3. **Sentiment Analysis using LSTM Model:**
+   - **Description:** This repository contains a Python notebook for Sentiment Analysis using the LSTM (Long Short-Term Memory) model. The IMDB dataset has been utilized for this experiment.
+   - **Repository:** [Sentiment Analysis using LSTM Model](https://github.com/Praveen76/Sentiment-Analysis-using-LSTM-Model)
+
+4. **Build a Forecasting Model using RNN:**
+   - **Description:** This repository contains code for building a forecasting model using Recurrent Neural Networks (RNNs). A climate-related dataset has been utilized for this experiment.
+   - **Repository:** [Build a Forecasting Model using RNN](https://github.com/Praveen76/Build-a-Forecasting-Model-using-RNN)
+
+     
 ## License
 
 This repository and its contents are open-sourced under the [MIT License](LICENSE). Feel free to use, modify, and distribute these projects in accordance with the terms specified in the license.
