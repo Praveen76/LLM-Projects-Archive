@@ -1,5 +1,15 @@
 # LLM Projects Archive
 
+![LLM](https://img.shields.io/badge/LLM-Projects-yellowgreen.svg)
+![NLP](https://img.shields.io/badge/NLP-Projects-orange.svg)
+![OpenAI's GPT Models](https://img.shields.io/badge/OpenAI's-GPT%20Models-orange.svg)
+![Open Source LLMs](https://img.shields.io/badge/Open%20Source-LLMs-blue.svg)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Supported-green.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-Supported-yellow.svg)
+
+
+
+
 Welcome to the LLM Projects Archive! This repository serves as a curated collection of projects related to Large Language Models (LLMs). If you are interested in exploring and contributing to projects that leverage LLMs for various applications, you're in the right place.
 ---
 ## Table of Contents
