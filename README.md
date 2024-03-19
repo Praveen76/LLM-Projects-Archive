@@ -38,28 +38,38 @@ Please adhere to the [contributing guidelines](CONTRIBUTING.md) for a smooth col
    - **Description:** It's a GitHub project focused on tailoring word embeddings specifically for Large Language Models, enabling fine-tuned linguistic representations to enhance performance in domain-specific applications
    - **Repository:** [Customize Word Embeddings for LLMs](https://github.com/Praveen76/Customize-Word-Embeddings-for-LLMs)
 
-4. **Finetune Open-source LLMs on Custom Data:** 
+4. **Create Word Embeddings using Word2Vec and GloVe:** 
+   - **Description:** This repository focuses on creating word embeddings using Word2Vec and GloVe techniques, utilizing the IMDB dataset for experimentation.
+   - **Repository:** [Create Word Embeddings using Word2Vec and GloVe](https://github.com/Praveen76/Create-Word-Embeddings-using-Word2Vec-and-Glove)
+
+5. **Finetune Open-source LLMs on Custom Data:** 
    - **Description:** It's a GitHub project focused on fine-tuning open-source LLMs on custom datasets, showcasing tailored solutions for enhanced language models.
    - **Repository:** [Finetune Open-source LLMs on custom data](https://github.com/Praveen76/Finetune-Open-Source-LLMs-on-custom-data.git)
    
-5. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
+6. **Build & evaluate Retrieval-Augmented-Generation pipelines:** 
    - **Description:** A comprehensive GitHub project focused on building and evaluating Retrieval-Augmented-Generation pipelines, enhancing natural language understanding and generation capabilities."
    - **Repository:** [Build & evaluate Retrieval-Augmented-Generation pipelines](https://github.com/Praveen76/Build-Retrieval-Augmented-Generation-pipelines.git)
 
-6. **Finetune Llama using QLoRA Method:** 
+7. **Finetune Llama using QLoRA Method:** 
    - **Description:** "GitHub project for fine-tuning the Llama language model using the QLoRA (Quantized Low Rank Adaption) method for enhanced natural language understanding."
    - **Repository:** [Finetune Llama using QLoRA Method](https://github.com/Praveen76/Fine-tune-LLAMA-with-QLoRA/)
 
-7. **Conversationl AI system using LLMs on E-commerce Data:** 
+8. **Conversationl AI system using LLMs on E-commerce Data:** 
    - **Description:** An innovative Conversational AI system leveraging Large Language Models (LLMs) for enhanced customer interaction and support, specifically tailored for E-commerce Data.
    - **Repository:** [Conversationl AI system using LLMs on E-commerce Data](https://github.com/Praveen76/Conversation-AI-System-using-LLMs-on-E-commerce-Data)
-8. **Language Translation using Transformer Model:**
+9.  **Text Classification using Transformer Encoder Model:**
+   - **Description:** This repository focuses on text classification using a Transformer Encoder model, utilizing the IMDB dataset for experimentation.
+   - **Repository:** [Text Classification using Transformer Encoder Model](https://github.com/Praveen76/Text-Classification-using-Transformer-Encoder-Model)
+
+10. **Language Translation using Transformer Decoder Model:**
    - **Description:** This repository contains code for language translation using the Transformer Decoder Model. You'll learn about the Transformer architecture and apply it to a machine translation problem.
    - **Repository:** [Language Translation using Transformer Model](https://github.com/Praveen76/Language-Translation-using-Transformer-Decoder-Model)
-9. **Text Classification using BERT Model:**
+
+11. **Text Classification using BERT Model:**
    - **Description:** This repository contains code for building a text classification model using the BERT (Bidirectional Encoder Representations from Transformers) Model. The IMDB dataset has been utilized for this experiment.
    - **Repository:** [Text Classification using BERT Model](https://github.com/Praveen76/Text-Classification-using-BERT-Model)
-10. **Build RAG-pipelines using Llama-Index:**
+
+12. **Build RAG-pipelines using Llama-Index:**
    - **Description:** Build a RAG pipeline using Llama-Index.
    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
