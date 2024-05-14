@@ -75,33 +75,33 @@ Large Language Models (LLMs), such as GPT-3, BERT, and others, have revolutioniz
     - **Description:** Build a RAG pipeline using Llama-Index.
     - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
-12. **Finetune GPT2 Model on downstream tasks:**
+13. **Finetune GPT2 Model on downstream tasks:**
     - **Description:** This repository demonstrates how to finetune GPT2 Model on custom dataset.
     - **Repository:** [Finetune GPT2 Model on downstream tasks](https://github.com/Praveen76/Finetune-GPT2-Model-on-downstream-tasks)
 
-12. **PEFT for Text summarization:**
+14. **PEFT for Text summarization:**
     - **Description:** This repository demonstrates how to PEFT( Parameter-efficient-finetuning) for text summarization task. 
     - **Repository:** [PEFT for Text summarization](https://github.com/Praveen76/PEFT-for-Text-summarization)
 
-12. **Build RAG-pipelines using Llama-Index:**
-    - **Description:** Build a RAG pipeline using Llama-Index.
-    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+15. **Finetune T5-Model_for Text Summary:**
+    - **Description:** This repository demonstrates how to finetune T5 Model on custom dataset for text summary task.
+    - **Repository:** [Finetune T5-Model_for Text Summary](https://github.com/Praveen76/Finetune_T5-Model_for_Text_Summary)
 
-12. **Build RAG-pipelines using Llama-Index:**
-    - **Description:** Build a RAG pipeline using Llama-Index.
-    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+16. **Finetune Llama2 and Mistral7B using Langchain:**
+    - **Description:** This repository demonstrates how to finetune Llama2 and Mistral7B Models on custom dataset using Langchain.
+    - **Repository:** [Finetune Llama2 and Mistral7B using Langchain](https://github.com/Praveen76/Finetune-Llama2-and-Mistral7B-using-Langchain)
 
-12. **Build RAG-pipelines using Llama-Index:**
-    - **Description:** Build a RAG pipeline using Llama-Index.
-    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+17. **Image Classification with Vision-Transformer:**
+    - **Description:** This repository demonstrates how to perform image classification with Vision-Transformer.
+    - **Repository:** [Image Classification with Vision-Transformer](https://github.com/Praveen76/Image-Classification-with-Vision-Transformer)
 
-12. **Build RAG-pipelines using Llama-Index:**
-    - **Description:** Build a RAG pipeline using Llama-Index.
-    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+18. **Introduction to Stable-Diffusion:**
+    - **Description:** This repository introduces to Stable-diffusion and talks about basics it.
+    - **Repository:** [Introduction to Stable-Diffusion](https://github.com/Praveen76/Introduction-to-Stable-Diffusion)
 
-12. **Build RAG-pipelines using Llama-Index:**
-    - **Description:** Build a RAG pipeline using Llama-Index.
-    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+19. **Introduction to Conditional-GANs:**
+    - **Description:** This repository introduces to Conditional-GANs(cGANs) and talks about basics it.
+    - **Repository:** [Introduction to Conditional-GANs](https://github.com/Praveen76/Introduction-to-Conditional-GANs)
 
 
 
