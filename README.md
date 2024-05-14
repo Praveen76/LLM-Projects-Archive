@@ -75,6 +75,36 @@ Large Language Models (LLMs), such as GPT-3, BERT, and others, have revolutioniz
     - **Description:** Build a RAG pipeline using Llama-Index.
     - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
 
+12. **Finetune GPT2 Model on downstream tasks:**
+    - **Description:** This repository demonstrates how to finetune GPT2 Model on custom dataset.
+    - **Repository:** [Finetune GPT2 Model on downstream tasks](https://github.com/Praveen76/Finetune-GPT2-Model-on-downstream-tasks)
+
+12. **PEFT for Text summarization:**
+    - **Description:** This repository demonstrates how to PEFT( Parameter-efficient-finetuning) for text summarization task. 
+    - **Repository:** [PEFT for Text summarization](https://github.com/Praveen76/PEFT-for-Text-summarization)
+
+12. **Build RAG-pipelines using Llama-Index:**
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+
+12. **Build RAG-pipelines using Llama-Index:**
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+
+12. **Build RAG-pipelines using Llama-Index:**
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+
+12. **Build RAG-pipelines using Llama-Index:**
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+
+12. **Build RAG-pipelines using Llama-Index:**
+    - **Description:** Build a RAG pipeline using Llama-Index.
+    - **Repository:** [Build RAG-pipelines using Llama-Index](https://github.com/Praveen76/Build-RAG-pipelines-using-Llama-Index/tree/main)
+
+
+
 <!-- Add more projects as needed -->
 ---
 ## Pre-LLM Projects:
