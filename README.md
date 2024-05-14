@@ -107,7 +107,7 @@ Large Language Models (LLMs), such as GPT-3, BERT, and others, have revolutioniz
 
 <!-- Add more projects as needed -->
 ---
-## Pre-LLM Projects:
+## Pre-LLM era Projects:
 1. **Text Classification using Naive Bayes Classifier:**
    - **Description:** This repository demonstrates text classification using a multi-nomial Naive Bayes Classifier. The IMDB dataset is used for this experiment.
    - **Repository:** [Text Classification using Naive Bayes Classifier](https://github.com/Praveen76/Text-Classification-using-NaiveBayes-Classifier)
