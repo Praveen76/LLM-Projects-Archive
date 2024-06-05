@@ -91,17 +91,6 @@ Large Language Models (LLMs), such as GPT-3, BERT, and others, have revolutioniz
     - **Description:** This repository demonstrates how to finetune Llama2 and Mistral7B Models on custom dataset using Langchain.
     - **Repository:** [Finetune Llama2 and Mistral7B using Langchain](https://github.com/Praveen76/Finetune-Llama2-and-Mistral7B-using-Langchain)
 
-17. **Image Classification with Vision-Transformer:**
-    - **Description:** This repository demonstrates how to perform image classification with Vision-Transformer.
-    - **Repository:** [Image Classification with Vision-Transformer](https://github.com/Praveen76/Image-Classification-with-Vision-Transformer)
-
-18. **Introduction to Stable-Diffusion:**
-    - **Description:** This repository introduces to Stable-diffusion and talks about basics it.
-    - **Repository:** [Introduction to Stable-Diffusion](https://github.com/Praveen76/Introduction-to-Stable-Diffusion)
-
-19. **Introduction to Conditional-GANs:**
-    - **Description:** This repository introduces to Conditional-GANs(cGANs) and talks about basics it.
-    - **Repository:** [Introduction to Conditional-GANs](https://github.com/Praveen76/Introduction-to-Conditional-GANs)
 
 
 
